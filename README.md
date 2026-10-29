@@ -46,8 +46,10 @@ My goal is to become a skilled Data Analyst who helps businesses make informed d
 
 ##  Let's Connect
 
--  **GitHub:** [Explore my repositories](https://github.com/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+-  **GitHub:** [Explore my repositories](https://github.com/Apaks50)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ugochukwu-apakama-2a0830341)
+- **Whatsapp:** [![Whatsapp](https://img.shields.io/badge/Whatsapp-Chat-green?logo=whatsapp)](https://wa.me/2348157459263)
+- **Email:** [Contact me](apakamaugochukwu@gmail.com)
 
 ---
 
